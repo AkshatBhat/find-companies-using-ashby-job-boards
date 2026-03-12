@@ -1,0 +1,3 @@
+slug,inferred_company_name,ashby_url,source_type,source_url,verification_status,notes
+acme,Acme,https://jobs.ashbyhq.com/acme,direct_search,https://jobs.ashbyhq.com/acme,VERIFIED,"Strong Ashby board indicators detected (score=5, negatives=0)"
+moonshot,Moonshot Labs,https://jobs.ashbyhq.com/moonshot,embedded_careers_page,https://moonshot.com/careers,VERIFIED,"Strong Ashby board indicators detected (score=4, negatives=0); name inferred from source domain"
